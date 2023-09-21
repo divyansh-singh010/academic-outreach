@@ -1,0 +1,18 @@
+[
+	{
+		"name": "About",
+		"path": "/programs/college/main",
+		"link_id" : 0
+	},
+	{
+		"name": "Webinar on Nano Technology",
+		"path": "/programs/college/webinar-nanotech",
+		"link_id" : 1
+	},
+	{
+		"name": "INNO-Tech 2021",
+		"path": "/programs/college/inno-tech-2021",
+		"link_id" : 2
+	}
+	
+]

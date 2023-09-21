@@ -1,0 +1,29 @@
+[
+	{
+		"name": "About Us",
+		"path": "../aboutus",
+		"link_id": 1
+	},
+	{
+		"name": "Academic Outreach Committee",
+		"path": "../aboutus/committee",
+		"link_id": 2
+	},
+	{
+		"name": "IITD_Sonipat Academic Outreach Committee",
+		"path": "../aboutus/haryana_committee",
+		"link_id": 5
+	},
+
+	{
+		"name": "Committee for Engagement with Parliamentarians ",
+		"path": "../aboutus/parliamentarians_committee",
+		"link_id": 4
+	},
+	{
+		"name": "Outreach Staff",
+		"path": "../aboutus/staff",
+		"link_id": 3
+	}
+	
+]

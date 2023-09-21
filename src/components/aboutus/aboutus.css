@@ -1,0 +1,74 @@
+.center-text {
+	text-align: center;
+}
+.font {
+	font-size: large;
+	/* line-height: 30px; */
+	/* word-spacing: 0.5rem; */
+}
+.font2 {
+	font-size: 1.563rem;
+}
+
+.bgcolor {
+	background-color: #a31f34;
+	color: white;
+	line-height: 2.188rem;
+	font-size: 1.25rem;
+}
+.accordion-color {
+	/* background-color: #a31f34; */
+	color: #a31f34;
+	border-color: #a31f34;
+	font-size: 1.188rem;
+	font-weight: 400;
+}
+.height {
+	line-height: 2.188rem;
+}
+.zoom1:hover {
+	transform: scale(1.02);
+}
+.zoom1 {
+	transition: 0.3s;
+}
+
+.space {
+	margin-top: 3.125rem;
+}
+.p-left {
+	padding-left: 1.25rem;
+	padding-top: 1.25rem;
+}
+.p-right {
+	padding-right: 1.25rem;
+	padding-top: 1.25rem;
+}
+.p-staff-card {
+	padding: 0.625rem 0 0.625rem 0.625rem;
+}
+
+.active-color {
+	outline: none;
+}
+.active-color:hover {
+	border-color: #a31f34;
+	color: #a31f34;
+}
+.active-color:focus {
+	color: #a31f34;
+	box-shadow: 0 0 0 0.2rem rgba(163, 31, 52, 0.25) !important;
+	outline-color: none !important;
+	background-color: #fff !important;
+}
+.active-color:active {
+	outline-color: #a31f34;
+}
+.accordion-color {
+	color: #a31f34 !important;
+	border: #eee;
+	background-color: #fff !important;
+}
+.centre-header {
+	margin: auto;
+}

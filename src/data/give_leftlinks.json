@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Campaign",
+		"path": "../contribute",
+		"link_id": 1
+	},
+	{
+		"name": "How to give",
+		"path": "../howtogive",
+		"link_id": 2
+	}
+]

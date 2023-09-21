@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Media",
+		"path": "../media",
+		"link_id": 1
+	},
+	{
+		"name": "Press Release",
+		"path": "../press",
+		"link_id": 2
+	}
+]

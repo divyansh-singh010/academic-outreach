@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Prof. Pritha Chandra",
+		"department": "Associate Dean, Academics (ONI), (HUSS)",
+		"post": "Chairperson, Ex-officio"
+	},
+	{
+		"name": "Prof.  P.V.M. Rao",
+		"department": "Design ",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. Ambuj D. Sagar",
+		"department": "SoPP",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. Subodh Sharma",
+		"department": "CS&E",
+		"post": "Member"
+	}
+	,
+	
+	{
+		"name": "Prof. Manjeet Jassal",
+		"department": "Textile Technology",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. S. D. Joshi",
+		"department": "Electrical Engineering",
+		"post": "Member"
+	},
+	{
+		"name": "Prof.  N.D Kurur",
+		"department": "Chemistry",
+		"post": "Convener"
+	}
+	
+]
