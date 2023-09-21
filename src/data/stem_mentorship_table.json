@@ -1,0 +1,26 @@
+[
+	{
+		"lecture": "Unravelling Nature- Part 2",
+		"speaker": "Prof. Abhishek Muralidhar Iyer & Prof. Tarun Sharma",
+		"date": "29-01-2022",
+		"time": "4:00 PM"
+    },
+	{
+		"lecture": "From light waves to images",
+		"speaker": "Prof. Kedar Khare",
+		"date": "12-02-2022",
+        "time": "4:00 PM"
+	},
+	{
+		"lecture": "Virus versus host: warfare at nanoscale",
+		"speaker": "Prof. Manidipa Banerjee",
+		"date": "26-03-2022",
+        "time": "4:00 PM"
+	},
+	{
+		"lecture": "Climate change and human civilization",
+		"speaker": "Prof. Yama Dixit",
+		"date": "23-04-2022",
+        "time": "4:00 PM"
+	}
+]

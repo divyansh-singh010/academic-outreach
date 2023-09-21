@@ -1,0 +1,17 @@
+[
+	{
+		"name": "About STS",
+		"path": "/programs/sts/about",
+		"link_id": 1
+	},
+	{
+		"name": "Lecture Schedule",
+		"path": "/programs/sts/schedule",
+		"link_id": 2
+	},
+	{
+		"name": "Registration",
+		"path": "/programs/sts/registration",
+		"link_id": 3
+	}
+]

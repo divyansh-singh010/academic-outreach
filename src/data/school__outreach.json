@@ -1,0 +1,22 @@
+[
+	{
+		"name": "About",
+		"path": "/programs/schooloutreach/main",
+		"link_id" : 0
+	},
+	{
+		"name": "Sci-Tech Spins",
+		"path": "/programs/schooloutreach/sts",
+		"link_id": 1
+	},
+	{
+		"name": "Stem Mentorship",
+		"path": "/programs/schooloutreach/stem",
+		"link_id": 2
+	},
+	{
+		"name": "Registration",
+		"path": "/programs/schooloutreach/changemaker/",
+		"link_id": 3
+	}
+]

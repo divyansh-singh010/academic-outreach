@@ -1,0 +1,17 @@
+[
+	{
+		"name": "About Mentorship Program",
+		"path": "/programs/stem/about",
+		"link_id": 1
+	},
+	{
+		"name": "Schedule",
+		"path": "/programs/stem/schedule",
+		"link_id": 2
+	},
+	{
+		"name": "Registration",
+		"path": "/programs/stem/registration",
+		"link_id": 3
+	}
+]

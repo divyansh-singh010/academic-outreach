@@ -1,0 +1,22 @@
+[
+	{
+		"name": "About",
+		"path": "/events/workshop",
+		"link_id": 1
+	},
+	{
+		"name": "Dhruv",
+		"path": "/events/dhruv",
+		"link_id": 2
+	},
+	{
+		"name": "Know India Program",
+		"path": "/events/workshop_kip",
+		"link_id": 2
+	},
+	{
+		"name": "NCERT",
+		"path": "/events/workshop_ncert",
+		"link_id": 2
+	}
+]

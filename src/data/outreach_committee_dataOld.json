@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Prof. Pritha Chandra",
+		"department": "Associate Dean, Academics (ONI), (HUSS)",
+		"post": "Chairperson, Ex-officio"
+	},
+	{
+		"name": "Prof. Divya Nayar",
+		"department": "Materials Science and Engineering",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. Soumik Siddhanta",
+		"department": "Chemistry",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. Jay Dhariwal",
+		"department": "Design",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. M.R.Ravi",
+		"department": "Mechanical Engineering",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. D.Sundar",
+		"department": "Bio Chemical Engineering and Bio Technology",
+		"post": "Member"
+	},
+	{
+		"name": "Prof. Rajender Dhaka",
+		"department": "Physics",
+		"post": "Member-Convener"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"name": "About",
+		"path": "/events/ile/",
+		"link_id": 1
+	},
+	{
+		"name": "Nomination",
+		"path": "/events/ile/nomination",
+		"link_id": 2
+	},
+	{
+		"name": "Institute Lectures Schedule",
+		"path": "/events/ileSchedule",
+		"link_id": 3
+	}
+]

@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+/* * {
+  font-family: "Cairo", sans-serif;
+} */
+.navbar {
+	padding: 0rem;
+	background: #04002d !important;
+}
+#iitdlogo {
+	width: 70px;
+}
+
+.acad-nav-item {
+	margin: 6px;
+	color: whitesmoke !important;
+	padding: 1px;
+	text-align: center;
+}
+.nav-link {
+	color: whitesmoke !important;
+
+	padding: 4px 0;
+	font-family: 'Cairo', sans-serif;
+}
+
+.navbar-brand {
+	color: whitesmoke;
+
+	font-family: 'Cairo', sans-serif;
+}
+.navbar-brand:hover {
+	animation: forwards;
+	color: #a31f34;
+}
+
+#sub-brand {
+	position: absolute;
+	color: white;
+	left: 149px;
+	top: 33px;
+	font-size: large;
+}
+.nav-img {
+	vertical-align: bottom;
+}
+#link-active:target {
+	color: #a31f34 !important;
+}
+
+#brand-text {
+	position: absolute;
+	top: 0px;
+	font-size: larger;
+}
+#link-active:focus {
+	color: #a31f34 !important;
+}
+.acad-navbar-brand {
+	margin-right: 0px !important;
+}
+#iitd-text {
+	font-size: medium;
+}
+@media only screen and (max-width: 991px) {
+	.navbar {
+		margin-top: -19px;
+	}
+	.navbar-container {
+		width: 95%;
+		margin: auto;
+	}
+	#iitdlogo {
+		display: block;
+		width: 75px;
+		margin: auto;
+	}
+	#nav-img {
+		position: absolute;
+		left: 4px;
+		top: 49px;
+	}
+	.acad-navbar-toggler-icon {
+		background: white;
+		position: absolute;
+		right: 5px;
+		top: 49px;
+	}
+
+	#sub-brand {
+		position: absolute;
+		color: white;
+		width: 93%;
+		left: auto;
+		top: 127px;
+		font-size: medium;
+	}
+
+	#brand-text {
+		/* display: block; */
+		position: absolute;
+		top: 100px;
+		font-size: larger;
+		width: 91% !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		/* left: auto; */
+		/* margin: auto; */
+		/* left: auto; */
+		text-align: center;
+	}
+
+	.acad-navbar-brand {
+		list-style: none;
+		font-size: large;
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		margin-top: 25px;
+	}
+	.navbar-brand {
+		padding: 0px !important;
+	}
+}
+@media only screen and (max-width: 470px) {
+	#brand-text {
+		font-size: large !important;
+	}
+}
