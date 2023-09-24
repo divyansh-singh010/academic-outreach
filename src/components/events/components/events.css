@@ -15,7 +15,18 @@
 	margin: 1rem;
 	justify-content: center;
 }
+.link_new{
+	background-color: rgb(18, 10, 10);
+	border-radius: 20px;
+	margin: 1rem;
+	justify-content: center;
+}
 .registration:hover{
+	background-color: white;
+	transition: 0.3s;
+	color: black;
+}
+.registration_new:hover{
 	background-color: white;
 	transition: 0.3s;
 	color: black;
@@ -24,9 +35,26 @@
 	display: flex;
 	justify-content: center;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: bold;
 	color: white;
+}
+.card-title{
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	font-weight: bold;
+}
+.registration_new{
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+.images{
+	margin:15px;
 }
 .program-card {
 	/* width: 140%; */

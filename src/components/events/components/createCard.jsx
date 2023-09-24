@@ -1,15 +1,18 @@
 import React from 'react';
 import './events.css';
 
-function Card(props) {
+function CreateCard(props) {
+	const imageBaseUrl='https://caic.iitd.ac.in';
 	return (
 		<div className='col-lg-2 col-md-6 cards-row m-0'>
-			<a class='btn border-0 w-100 px-0' href={props.more}>
+			<a class='btn border-0 w-100 px-0' href={props.registration_link}>
 				<div className='card program-card shadow p-0'>
-					<img src={props.img} className='card-img-top program-card-img' alt='...' />
+					<div className='images'>
+					<img src={`${imageBaseUrl}${props.image}`} className='card-img-top program-card-img' alt='...' />
+					</div>
+					<hr />
 					<div className='card-body program-card-body'>
-						<hr />
-						<p className='card-text program-card-txt lh-1'>{props.cardText}</p>
+						<p className='card-text program-card-txt lh-1'>{props.description}</p>
 					</div>
 				</div>
 			</a>
@@ -17,8 +20,4 @@ function Card(props) {
 	);
 }
 
-function createCard(props) {
-	return <Card key={props.id} img={props.img} cardText={props.cardText} more={props.more} />;
-}
-
-export default createCard;
+export default CreateCard;
